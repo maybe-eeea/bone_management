@@ -1,6 +1,6 @@
 # bone_management
 
-- Bone and Coordinate Management
+- bone and coordinate management
 
 this script is designed to interact with the character model (ped) in the context of a police simulation. It allows for the management of bone-related information for characters, displays coordinates, and traces lines based on weapon impacts.
 
@@ -15,8 +15,8 @@ this script is designed to interact with the character model (ped) in the contex
 
 the script exposes several commands that you can use in-game:
 
-- **`enableMode_boneCheck`**: Activates the bone checking mode. This allows you to see lines drawn between the bones of the character.
-- **`enableMode_boneCheck-Precision`**: Activates the bone checking mode with precision. This modifies how bone indices are handled.
+- **`enableMode_boneCheck`**: activates the bone checking mode. This allows you to see lines drawn between the bones of the character.
+- **`enableMode_boneCheck-Precision`**: activates the bone checking mode with precision. This modifies how bone indices are handled.
 
 ## examples of functionality
 

@@ -29,7 +29,7 @@ When bone checking mode is activated, the script will trace lines between specif
 
 ## Authors
 
-- eeea
+- maybe-eeea
 
 ## License
 
